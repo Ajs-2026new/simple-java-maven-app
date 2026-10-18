@@ -1,4 +1,4 @@
-i# AJ after SSH automation 1:36pm on  18th, simple-java-maven-app
+i# AJ after SSH automation verify  2:01pm on  18th, simple-java-maven-app
 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
